@@ -7,3 +7,5 @@ yourDatabaseName = database
 root             = username
 (blank)          = password
 localhost        = localhost
+
+how to clone wikimedia : https://wiki.saidramadhan.com
