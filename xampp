@@ -1,0 +1,26 @@
+1. download xampp for linux
+
+2. install
+
+3. download wordpress
+
+4. install
+
+4. setting after wordpress instalation
+4.1 give auth for user/group
+
+  sudo chown -R daemon filename/
+
+
+5. setting xampp security
+
+    sudo /opt/lampp/lampp security
+
+all to [yes] and the last to [no]
+6. create database name
+
+7. run wordpress instalation
+
+8. login
+
+done. 
