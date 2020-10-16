@@ -1,0 +1,1 @@
+ffmpeg -i nameYourVideo.mp4 -acodec mp2 nameYourOutputFile.mp4
